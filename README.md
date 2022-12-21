@@ -1,6 +1,8 @@
 # AndroidBoot
 Android Boot template for 010 editor
 
+> currently only tested on bootimg_v4, still work in process
+
 ![example](assets/example.png)
 
 
